@@ -1,0 +1,20 @@
+.button {
+    height: 45px;
+    width: 185px;
+    margin-left: -0%;
+}
+
+.contact__button {
+    height: 45px;
+    width: 120px;
+    margin-left: 34%;
+}
+
+.abutton {
+    margin-left: 30%;
+}
+
+.about__img img {
+    height: 172px;
+    width: 172px;
+}
